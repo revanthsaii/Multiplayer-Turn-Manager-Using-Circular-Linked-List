@@ -1,5 +1,3 @@
-A concise README for that repository could look like this:
-
 ***
 
 # Multiplayer Turn Manager Using Circular Linked List
