@@ -61,6 +61,4 @@ This structure is useful in games or simulations where players take turns in a f
 
 ***
 
-You can adjust file names, function names, and the build section to match the exact structure of your repo if they differ.
-
 [1](https://github.com/revanthsaii/Multiplayer-Turn-Manager-Using-Circular-Linked-List)
