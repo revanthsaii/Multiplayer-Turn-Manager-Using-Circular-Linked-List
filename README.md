@@ -60,5 +60,3 @@ This structure is useful in games or simulations where players take turns in a f
 - Support for skipping players or changing turn order rules.  
 
 ***
-
-[1](https://github.com/revanthsaii/Multiplayer-Turn-Manager-Using-Circular-Linked-List)
